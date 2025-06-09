@@ -15,7 +15,6 @@ The dataset used in this notebook is:
 It contains various medical parameters such as age, sex, cholesterol, etc., which are useful for predicting heart disease.
 
 ---
-
 ## 🛠️ Technologies Used
 
 - Python
