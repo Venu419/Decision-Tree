@@ -2,7 +2,7 @@
 
 This project uses the **Decision Tree Classifier** to predict whether a person is likely to have heart disease or not, based on various health-related features.
 
-> 📘 Designed for beginners — if you’ve passed 12th grade and know some Python, you can follow this easily!
+> 📘 Designed for beginners — if you  a basic knowledge on GitHub, VS Code and know some Python, you can follow this easily!
 
 ---
 
